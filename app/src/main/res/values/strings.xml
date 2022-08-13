@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+
+    <string name="phrase1">Я каждый день стараюсь научиться чему-то новому</string>
+    <string name="phrase2">Ну вот, опять зарплату повышают</string>
+    <string name="phrase3">В маршрутках поутру так много места</string>
+    <string name="phrase4">Раслабься! Все будет хорошо</string>
+    <string name="phrase5">Вдохну.... На выдохе худею</string>
+    <string name="phrase6">Потратился, а денег только больше стало</string>
+    <string name="phrase7">Я могу, я сделаю, и точка</string>
+    <string name="phrase8">Мой мозг полон отличных идей</string>
+    <string name="phrase9">Я с радостью встречаю новый день</string>
+    <string name="phrase10">Я спокоен и уверен в себе</string>
+</resources>
